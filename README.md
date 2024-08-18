@@ -1,5 +1,9 @@
 # Certificates
 
+### SQL By TestDome
+
+You can verify my certificate at https://www.testdome.com/certificates/5bb4e4be142948f3a644c3a1aff0da66
+
 ### Data_Analysis_using_SQL
 
 You can Verify my certificate at https://olympus.mygreatlearning.com/courses/40120/certificate
