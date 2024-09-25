@@ -32,4 +32,4 @@ Project 3:- Hotel Aggregator Analysis with Power BI
 
 Introduction to MS Excel:-
 
-You can Verify my certificate at https://www.simplilearn.com/learn-ms-excel-free-training-course-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion
+You can Verify my certificate at https://simpli-web.app.link/e/V5ZkfGtlaNb
