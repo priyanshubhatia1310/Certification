@@ -16,7 +16,7 @@ You can Verify my certificate at https://cert.efset.org/UGfHmn
 
 You can Verify my certificate at https://www.testdome.com/certificates/91c31fd1b71c435db6c67c2adac43f56
 
-### Internship_certificate
+### DataAnalyst_Internship_certificate
 
 Mentorness - https://www.linkedin.com/company/mentorness/posts/?feedView=all
 
@@ -27,3 +27,9 @@ Project 1:- Reel Task - Tableau
 Project 2:- Corona Virus Analysis With SQL
 
 Project 3:- Hotel Aggregator Analysis with Power BI
+
+### Excel_Simplilearn
+
+Introduction to MS Excel:-
+
+You can Verify my certificate at https://www.simplilearn.com/learn-ms-excel-free-training-course-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion
