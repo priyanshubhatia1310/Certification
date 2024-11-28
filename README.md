@@ -33,3 +33,7 @@ Project 3:- Hotel Aggregator Analysis with Power BI
 Introduction to MS Excel:-
 
 You can Verify my certificate at https://simpli-web.app.link/e/V5ZkfGtlaNb
+
+### Looker Studio Certificate
+
+You can Verify my certificate at https://olympus.mygreatlearning.com/courses/111787/certificate?pb_id=581
